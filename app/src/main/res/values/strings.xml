@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labo8</string>
+    <string name="movie_name">Movie Name:</string>
+    <string name="prueba">Prueba</string>
+    <string name="category">category</string>
+    <string name="submit">submit</string>
+    <string name="category_text">Category</string>
+</resources>
